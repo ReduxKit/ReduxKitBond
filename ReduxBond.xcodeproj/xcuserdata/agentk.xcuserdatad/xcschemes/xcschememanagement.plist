@@ -4,10 +4,25 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ReduxBond.xcscheme</key>
+		<key>ReduxBond-Mac.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>ReduxBond-iOS.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>ReduxBond-tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>ReduxBond-watchOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
@@ -18,6 +33,31 @@
 			<true/>
 		</dict>
 		<key>7304BE131C26494300538814</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7304BE281C26499F00538814</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7304BE311C26499F00538814</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7304BE441C2649B000538814</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7304BE4D1C2649B100538814</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7304BE601C2649C000538814</key>
 		<dict>
 			<key>primary</key>
 			<true/>
