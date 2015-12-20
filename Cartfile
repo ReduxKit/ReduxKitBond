@@ -1,0 +1,2 @@
+github "agentk/reduxSwift" "master"
+github "SwiftBond/Bond" ~> 4.0
