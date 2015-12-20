@@ -81,6 +81,8 @@
 		7304BE831C264DDE00538814 /* Redux.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Redux.framework; path = Carthage/Build/Mac/Redux.framework; sourceTree = "<group>"; };
 		7304BE881C264DEA00538814 /* Bond.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Bond.framework; path = Carthage/Build/tvOS/Bond.framework; sourceTree = "<group>"; };
 		7304BE891C264DEA00538814 /* Redux.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Redux.framework; path = Carthage/Build/tvOS/Redux.framework; sourceTree = "<group>"; };
+		7304BE941C26509A00538814 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		7304BE951C26509A00538814 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,8 @@
 		7304BE001C26494300538814 = {
 			isa = PBXGroup;
 			children = (
+				7304BE941C26509A00538814 /* LICENSE */,
+				7304BE951C26509A00538814 /* README.md */,
 				7304BE771C264B9800538814 /* Cartfile */,
 				7304BE781C264B9800538814 /* Cartfile.resolved */,
 				7304BE0C1C26494300538814 /* ReduxBond */,
@@ -968,6 +972,7 @@
 				7304BE201C26494300538814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7304BE211C26494300538814 /* Build configuration list for PBXNativeTarget "ReduxBond-iOSTests" */ = {
 			isa = XCConfigurationList;
@@ -976,6 +981,7 @@
 				7304BE231C26494300538814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7304BE3A1C26499F00538814 /* Build configuration list for PBXNativeTarget "ReduxBond-Mac" */ = {
 			isa = XCConfigurationList;
@@ -984,6 +990,7 @@
 				7304BE3C1C26499F00538814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7304BE3D1C26499F00538814 /* Build configuration list for PBXNativeTarget "ReduxBond-MacTests" */ = {
 			isa = XCConfigurationList;
@@ -992,6 +999,7 @@
 				7304BE3F1C26499F00538814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7304BE561C2649B100538814 /* Build configuration list for PBXNativeTarget "ReduxBond-tvOS" */ = {
 			isa = XCConfigurationList;
@@ -1000,6 +1008,7 @@
 				7304BE581C2649B100538814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7304BE591C2649B100538814 /* Build configuration list for PBXNativeTarget "ReduxBond-tvOSTests" */ = {
 			isa = XCConfigurationList;
@@ -1008,6 +1017,7 @@
 				7304BE5B1C2649B100538814 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
