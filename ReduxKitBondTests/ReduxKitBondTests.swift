@@ -1,19 +1,19 @@
 //
-//  ReduxBondTests.swift
-//  ReduxBondTests
+//  ReduxKitBondTests.swift
+//  ReduxKitBondTests
 //
 //  Created by Karl Bowden on 20/12/2015.
-//  Copyright © 2015 SwiftRedux. All rights reserved.
+//  Copyright © 2015 ReduxKit. All rights reserved.
 //
 
 import XCTest
 import Bond
-import Redux
-@testable import ReduxBond
+import ReduxKit
+@testable import ReduxKitBond
 
-class ReduxBondTests: XCTestCase {
+class ReduxKitBondTests: XCTestCase {
 
-    let store: Store<State> = ReduxBond.createStore(reducer)
+    let store: Store<State> = ReduxKitBond.createStore(reducer)
     let action = IncrementAction()
     let action2 = IncrementAction(payload: 2)
 
@@ -85,7 +85,7 @@ class ReduxBondTests: XCTestCase {
         let count = 100000
         self.measureBlock {
             // Arrange
-            let store = ReduxBond.createStore(reducer)
+            let store = ReduxKitBond.createStore(reducer)
             let action = IncrementAction()
             var state: State!
             store.subscribe { state = $0 }
