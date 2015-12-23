@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7304BE441C2649B000538814"
-               BuildableName = "ReduxBond.framework"
-               BlueprintName = "ReduxBond-tvOS"
-               ReferencedContainer = "container:ReduxBond.xcodeproj">
+               BuildableName = "ReduxKitBond.framework"
+               BlueprintName = "ReduxKitBond-tvOS"
+               ReferencedContainer = "container:ReduxKitBond.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "7304BE4D1C2649B100538814"
-               BuildableName = "ReduxBond-tvOSTests.xctest"
-               BlueprintName = "ReduxBond-tvOSTests"
-               ReferencedContainer = "container:ReduxBond.xcodeproj">
+               BuildableName = "ReduxKitBond-tvOSTests.xctest"
+               BlueprintName = "ReduxKitBond-tvOSTests"
+               ReferencedContainer = "container:ReduxKitBond.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7304BE441C2649B000538814"
-            BuildableName = "ReduxBond.framework"
-            BlueprintName = "ReduxBond-tvOS"
-            ReferencedContainer = "container:ReduxBond.xcodeproj">
+            BuildableName = "ReduxKitBond.framework"
+            BlueprintName = "ReduxKitBond-tvOS"
+            ReferencedContainer = "container:ReduxKitBond.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,9 +65,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7304BE441C2649B000538814"
-            BuildableName = "ReduxBond.framework"
-            BlueprintName = "ReduxBond-tvOS"
-            ReferencedContainer = "container:ReduxBond.xcodeproj">
+            BuildableName = "ReduxKitBond.framework"
+            BlueprintName = "ReduxKitBond-tvOS"
+            ReferencedContainer = "container:ReduxKitBond.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -83,9 +83,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "7304BE441C2649B000538814"
-            BuildableName = "ReduxBond.framework"
-            BlueprintName = "ReduxBond-tvOS"
-            ReferencedContainer = "container:ReduxBond.xcodeproj">
+            BuildableName = "ReduxKitBond.framework"
+            BlueprintName = "ReduxKitBond-tvOS"
+            ReferencedContainer = "container:ReduxKitBond.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
