@@ -83,6 +83,7 @@
 		7304BE891C264DEA00538814 /* ReduxKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ReduxKit.framework; path = Carthage/Build/tvOS/ReduxKit.framework; sourceTree = "<group>"; };
 		7304BE941C26509A00538814 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		7304BE951C26509A00538814 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		739C45A51C2A56190041C5F9 /* ReduxKitBond.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReduxKitBond.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +154,7 @@
 				7304BE951C26509A00538814 /* README.md */,
 				7304BE771C264B9800538814 /* Cartfile */,
 				7304BE781C264B9800538814 /* Cartfile.resolved */,
+				739C45A51C2A56190041C5F9 /* ReduxKitBond.podspec */,
 				7304BE0C1C26494300538814 /* ReduxKitBond */,
 				7304BE181C26494300538814 /* ReduxKitBondTests */,
 				7304BE791C264DA500538814 /* Dependencies iOS */,
